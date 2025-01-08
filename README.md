@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is myfirst Repository
 <br>
-Author- pabitra sarkar
+Author- pabitra sarkar student at iiest shibpur
